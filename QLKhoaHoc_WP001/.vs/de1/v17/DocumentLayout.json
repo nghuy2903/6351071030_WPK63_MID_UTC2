@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\QLKhoaHoc_WP001 (1)\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\QLKhoaHoc_WP001 (1)\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\QLKhoaHoc_WP001 (1)\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\qlkhoahoc_wp001 (1)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\qlkhoahoc_wp001 (1)\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\QLKhoaHoc_WP001 (1)\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\pc\\onedrive\\desktop\\6351071030_wpk63_mid_utc2\\qlkhoahoc_wp001\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\pc\\onedrive\\desktop\\6351071030_wpk63_mid_utc2\\qlkhoahoc_wp001\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -30,15 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Services.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\Services.aspx",
+              "RelativeDocumentMoniker": "Services.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\Services.aspx",
+              "RelativeToolTip": "Services.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T09:09:27.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\QLKhoaHoc_WP001 (1)\\Web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\QLKhoaHoc_WP001 (1)\\Web.config",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -47,50 +64,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Web.sitemap",
-              "DocumentMoniker": "C:\\QLKhoaHoc_WP001 (1)\\Web.sitemap",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\Web.sitemap",
               "RelativeDocumentMoniker": "Web.sitemap",
-              "ToolTip": "C:\\QLKhoaHoc_WP001 (1)\\Web.sitemap",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\Web.sitemap",
               "RelativeToolTip": "Web.sitemap",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
               "WhenOpened": "2024-09-25T09:53:54.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DefaultPageMaster.Master",
-              "DocumentMoniker": "C:\\QLKhoaHoc_WP001 (1)\\DefaultPageMaster.Master",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\DefaultPageMaster.Master",
               "RelativeDocumentMoniker": "DefaultPageMaster.Master",
-              "ToolTip": "C:\\QLKhoaHoc_WP001 (1)\\DefaultPageMaster.Master",
-              "RelativeToolTip": "DefaultPageMaster.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\DefaultPageMaster.Master*",
+              "RelativeToolTip": "DefaultPageMaster.Master*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-24T04:05:03.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "home.aspx",
-              "DocumentMoniker": "C:\\QLKhoaHoc_WP001 (1)\\home.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\home.aspx",
               "RelativeDocumentMoniker": "home.aspx",
-              "ToolTip": "C:\\QLKhoaHoc_WP001 (1)\\home.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\home.aspx",
               "RelativeToolTip": "home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-24T03:51:45.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\QLKhoaHoc_WP001 (1)\\style.css",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\style.css",
               "RelativeDocumentMoniker": "style.css",
-              "ToolTip": "C:\\QLKhoaHoc_WP001 (1)\\style.css",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\6351071030_WPK63_MID_UTC2\\QLKhoaHoc_WP001\\style.css",
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAAF0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

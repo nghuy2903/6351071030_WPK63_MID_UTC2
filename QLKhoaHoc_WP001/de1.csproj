@@ -126,6 +126,7 @@
       <LastGenOutput>QLKhoaHoc.cs</LastGenOutput>
     </Content>
     <Content Include="service.aspx" />
+    <Content Include="Services.aspx" />
     <Content Include="style.css" />
     <Content Include="UserControl\ucCategoryList.ascx" />
     <Content Include="UserControl\ucManageProduct.ascx" />
@@ -214,6 +215,13 @@
     </Compile>
     <Compile Include="service.aspx.designer.cs">
       <DependentUpon>service.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
     </Compile>
     <Compile Include="UserControl\ucCategoryList.ascx.cs">
       <DependentUpon>ucCategoryList.ascx</DependentUpon>

@@ -4,6 +4,6 @@
     <siteMapNode url="ManageCategory.aspx" title="Manage Category"  description="" />
     <siteMapNode url="ManageProduct.aspx" title=" Manage Product"  description="" />
 	  <siteMapNode url="service.aspx" title="Service"  description="Service page"></siteMapNode>
-
+	  <siteMapNode url="Services.aspx" title="Services"  description="Service page"></siteMapNode>
   </siteMapNode>
 </siteMap>
